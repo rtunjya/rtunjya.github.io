@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Rtunjya Gujral # your name (or website title) here
+logo: "/images/HEADSHOT CCC.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Rtunjya Gujral is a Music Technology major at Columbia College Chicago. 
   <br><br>
-  Second description 
+  This is a portfolio of projects created in C# for PROG 101 at Columbia College Chicago. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rtunjya-g-93406091/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
