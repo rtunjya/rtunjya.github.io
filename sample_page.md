@@ -46,7 +46,7 @@ Clearing level one unlocks Soda.
 Clearing level two unlocks pumpkins.
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Picture1.jpg?raw=true"/>
 
 ### 4. Customer Personalities Become More Challenging as The Game Progresses
 
