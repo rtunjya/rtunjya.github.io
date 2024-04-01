@@ -6,9 +6,9 @@
 
 
 - [Grocery Store Simulator](https://github.com/rtunjya/StoreApp_Midterm.git)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Substitution Cipher](https://github.com/rtunjya/Substitution_Cipher.git)
+- [Madlibs](https://github.com/rtunjya/Madlibs.git)
+- [Trivia Game](https://github.com/rtunjya/Wk3_HW_TriviaGame.git)
 - [Project 5 Title](http://example.com/)
 
 ---
