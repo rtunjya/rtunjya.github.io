@@ -8,7 +8,7 @@ I'm a music producer, audio and audio hardware engineer currently majoring in Mu
 ### Get in Touch
 
 Email: rtunjya@gmail.com
-Music and Hardware Portfolio: www.rtunjya.com
+<br>Music and Hardware Portfolio: www.rtunjya.com
 ___
 
 
