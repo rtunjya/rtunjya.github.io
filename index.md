@@ -5,7 +5,7 @@
 ### Programs Made with C#
 
 
-- [Grocery Store Simulator](https://github.com/rtunjya/StoreApp_Midterm.git)
+- [Grocery Store Simulator](sample_page.md)
 - [Substitution Cipher](https://github.com/rtunjya/Substitution_Cipher.git)
 - [Madlibs](https://github.com/rtunjya/Madlibs.git)
 - [Trivia Game](https://github.com/rtunjya/Wk3_HW_TriviaGame.git)
