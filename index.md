@@ -9,7 +9,6 @@
 - [Substitution Cipher](https://github.com/rtunjya/Substitution_Cipher.git)
 - [Madlibs](https://github.com/rtunjya/Madlibs.git)
 - [Trivia Game](https://github.com/rtunjya/Wk3_HW_TriviaGame.git)
-- [Project 5 Title](http://example.com/)
 
 ---
 
