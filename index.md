@@ -5,7 +5,7 @@
 ### Programs Made with C#
 
 
-- [Grocery Store Simulator]((https://github.com/rtunjya/StoreApp_Midterm.git))
+- [Grocery Store Simulator](https://github.com/rtunjya/StoreApp_Midterm.git)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
