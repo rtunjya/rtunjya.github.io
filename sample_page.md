@@ -81,4 +81,4 @@ Level three: the customer is a very rude health-obsessed person.
  This game was made with help and tutoring from Dominic Frugoli and Rafael Margarido Sabe. Dominic Frugoli helped reinforce key programming concepts during the making of this game. Rafael Margarido Sabe helped me majorly refactor my code with enum Types, lists and arrays.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Repository]([https://guides.github.com/features/mastering-markdown/](https://github.com/rtunjya/StoreApp_Midterm.git)).
