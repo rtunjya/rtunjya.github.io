@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-
+### [About Me](README.md)
 ### Programs Made with C#
 
 
