@@ -6,6 +6,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   This is a portfolio of projects created in C# for PROG 101 at Columbia College Chicago. 
   <br><br>
   <a href="https://www.linkedin.com/in/rtunjya-g-93406091/">View My LinkedIn Profile</a> 
+  <br> 
+  <a href="https://www.rtunjya.com/">View My Website</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
