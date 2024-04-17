@@ -9,6 +9,7 @@
 - [Substitution Cipher](Substitution_Cipher.md)
 - [Madlibs](Madlibs.md)
 - [Trivia Game](TriviaGame.md)
+- [Cumulative Verses](CumulativeVerses.md)
 
 ---
 
