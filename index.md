@@ -7,7 +7,7 @@
 
 - [Grocery Store Simulator](sample_page.md)
 - [Substitution Cipher](Substitution_Cipher.md)
-- [Madlibs](https://github.com/rtunjya/Madlibs.git)
+- [Madlibs](Madlibs.md)
 - [Trivia Game](https://github.com/rtunjya/Wk3_HW_TriviaGame.git)
 
 ---
