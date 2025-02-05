@@ -11,6 +11,7 @@
 - [Trivia Game](TriviaGame.md)
 - [Cumulative Verses](CumulativeVerses.md)
 - [Jay's House of Cards](HouseOfCards.md)
+- [Reverb Simulation](ReverbSim.md)
 
 ---
 
