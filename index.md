@@ -19,7 +19,7 @@
 
 - [Algorithms in Music](Algorithms_in_Music.md)
 - [Chicago Weather Forecast Visualization](Chicago_Temperature.md)
-
+- [Rise of Cozy Video Games During Covid-19: Data Visualization and Analysis](Cozy_Games.md)
 
 
 ---
