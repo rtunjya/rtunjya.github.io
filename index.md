@@ -14,7 +14,11 @@
 - [Reverb Simulation](ReverbSim.md)
 
 ---
+### Programs Made with C#
 
+
+- [Algorithms in Music](Algorithms_in_Music.md)
+- [Substitution Cipher](Substitution_Cipher.md)
 
 
 
