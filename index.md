@@ -14,11 +14,11 @@
 - [Reverb Simulation](ReverbSim.md)
 
 ---
-### Programs Made with C#
+### Programs Made with Javascript, HTML and CSS
 
 
 - [Algorithms in Music](Algorithms_in_Music.md)
-- [Substitution Cipher](Substitution_Cipher.md)
+- [Chicago Weather Forecast Visualization](Chicago_Temperature.md)
 
 
 
